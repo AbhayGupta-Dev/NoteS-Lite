@@ -1,15 +1,10 @@
 # NoteS-Lite
-📝 Project Title: NoteS Lite — Minimalist Editor with PDF &amp; Font Control
+📝 Project Title: NoteS Lite — Minimalist Editor with PDF import and export &amp; Font Control
 
 📝 Text Edit -named = NoteS Lite — Lightweight Notepad with PDF & Font Tools
 **📌 Description**
 
 Text Edit is a minimalist Notepad-style application built in Python for educational purposes. It allows users to create, edit, and save plain text files, customize fonts, and export or import PDFs — all within a clean, intuitive interface. Designed to help learners and developers explore GUI design, file handling, and PDF integration, this tool reflects a balance of simplicity and thoughtful design.
-
-**📚 Educational Use Disclaimer**
-
-This project is intended for educational purposes only. It was created to explore Python GUI development, file handling, and PDF integration in a Notepad-style application. Users are free to study, modify, and learn from the code, but it is not intended for commercial 
-deployment or production use.
 
 **🚀 Features**
 
