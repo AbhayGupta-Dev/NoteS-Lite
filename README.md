@@ -47,22 +47,6 @@ TTkbootstrap Font module (for font customization)
 
 ---
 
-**🤝 Contributing**
-
-Pull requests are always welcome!
-If you'd like to:
-
-Add new features
-
-Improve accessibility
-
-Localize to new languages
-
-Polish UI elements
-
-→ Just fork the repo, work your magic, and submit a PR.
-
----
 ### **Author**
 
 <p>Abhay Gupta
